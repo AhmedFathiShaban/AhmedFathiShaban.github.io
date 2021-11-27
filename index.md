@@ -7,8 +7,6 @@
 
 
 
-# Seattle : Do Business & Have Fun !
-
 Seattle is one of the tourist attractions in Washigton. In Seattle, you could visit the [Space Needle](https://www.spaceneedle.com/), the [Art Museum](https://www.seattleartmuseum.org/), the [Aquarium](https://www.seattleaquarium.org/), and many more !
 
 Being such an attraction, it is only natural it would attract the attention of three types of people
