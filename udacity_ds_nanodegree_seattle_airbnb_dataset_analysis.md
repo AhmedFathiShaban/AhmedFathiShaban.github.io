@@ -1,6 +1,5 @@
 ![Seattle](/docs/assets/imgs/seattle_image2.jpeg)
 
-QQQQQ
 
 <p align="center">
   <a href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Space_Needle002.jpg">Image Source</a>
@@ -10,6 +9,8 @@ QQQQQ
 
 # Seattle : Do Business & Have Fun !
 
+
+QQQQQ
 Seattle is one of the tourist attractions in Washigton. In Seattle, you could visit the [Space Needle](https://www.spaceneedle.com/), the [Art Museum](https://www.seattleartmuseum.org/), the [Aquarium](https://www.seattleaquarium.org/), and many more !
 
 Being such an attraction, it is only natural it would attract the attention of three types of people
