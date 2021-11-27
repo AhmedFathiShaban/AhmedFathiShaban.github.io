@@ -64,16 +64,15 @@ Well, this one is easy. To answer this question, let's look at historical data a
 
 The following figure shows the average price per neighbourhood per month, limited only for places that accommodate a single person.
 
-<p align="center">
-  <img style="float: right;" src="/docs/assets/imgs/distrib_1.png">
-</p>
+
+![avg price per month per neighbourhood](/docs/assets/imgs/distrib_1.png)
+
 
 While this graph is useful on its own, it is too noisy. Let's actually limit ourselves to neighbourhoods that happen to be cheapest at any given month.
 Doing this, we get the following graph.
 
-<p align="center">
-  <img style="float: right;" src="/docs/assets/imgs/distrib_2.png">
-</p>
+
+![avg price per month per neighbourhood filtered](/docs/assets/imgs/distrib_2.png)
 
 This graph clearly shows that Magnolia is the cheapest possible neighbourhood all year round except for March & April, where Northgate is cheapest.
 **The cheapest possible combination would be Magnolia in January. Have fun, frugal tourist !**
