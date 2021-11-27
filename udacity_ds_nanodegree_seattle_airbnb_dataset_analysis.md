@@ -43,7 +43,8 @@ Unfortunately, when I looked into the dataset, I did not find information on whe
 Without this piece of information, I was unable to answer the question or recommend any specific model to landlords.
 
 
-**Sorry, landlords !**
+**Sorry, landlords !**\
+
 
 
 <p align="center">
@@ -62,14 +63,16 @@ Without this piece of information, I was unable to answer the question or recomm
 
 Well, this one is easy. To answer this question, let's look at historical data and find out which neighbourhood is cheapest per month, which month is cheapest per neighbourhood, and the which combination is cheapest overall ! 
 
-The following figure shows the average price per neighbourhood per month, limited only for places that accommodate a single person.
+The following figure shows the average price per neighbourhood per month, limited only for places that accommodate a single person.\
+
 
 
 ![avg price per month per neighbourhood](/docs/assets/imgs/distrib_1.png)
 
 
 While this graph is useful on its own, it is too noisy. Let's actually limit ourselves to neighbourhoods that happen to be cheapest at any given month.
-Doing this, we get the following graph.
+Doing this, we get the following graph.\
+
 
 
 ![avg price per month per neighbourhood filtered](/docs/assets/imgs/distrib_2.png)
