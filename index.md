@@ -80,5 +80,5 @@ This graph clearly shows that Magnolia is the cheapest possible neighbourhood al
 
 By this, I get to the end of my post. I hope you found it insightful ! 
 
-**Landlords, I owe you one !** Once sufficient data is available, I will come back to you :wink:
+**Landlords, I owe you one !** 
 
