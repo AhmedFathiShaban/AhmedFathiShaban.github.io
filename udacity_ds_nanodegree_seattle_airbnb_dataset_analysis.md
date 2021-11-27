@@ -69,7 +69,7 @@ The following figure shows the average price per neighbourhood per month, limite
 
 ![avg price per month per neighbourhood](/docs/assets/imgs/distrib_1.png)
 
-
+<br>
 While this graph is useful on its own, it is too noisy. Let's actually limit ourselves to neighbourhoods that happen to be cheapest at any given month.
 Doing this, we get the following graph.\
 
