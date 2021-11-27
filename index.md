@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+![Seattle](/docs/assets/imgs/seattle_image.jpeg)
+
+
+
+<p align="center">
+  <a href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Space_Needle002.jpg">Image Source</a>
+</p>
+
+
+
+# Seattle : Do Business & Have Fun !
+
+
 
 You can use the [editor on GitHub](https://github.com/AhmedFathiShaban/AhmedFathiShaban.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
