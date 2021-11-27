@@ -42,14 +42,18 @@ To answer this question, one must analyze different rental models, and find out 
 Unfortunately, when I looked into the dataset, I did not find information on whether a specific property was rented (i.e, making money) at each specific day or not.
 Without this piece of information, I was unable to answer the question or recommend any specific model to landlords.
 
+
 **Sorry, landlords !**
+
+
 <p align="center">
   <img style="float: right;" src="/docs/assets/imgs/failed2.png">
 </p>
 
+
 <p align="center">
   <a href="https://www.deviantart.com/ryanthescooterguy/art/Dexter-I-Have-Failed-You-base-574912964">Image Source</a>
-  </p>
+</p>
   
   
  
