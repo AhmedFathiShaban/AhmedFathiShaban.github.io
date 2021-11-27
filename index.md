@@ -46,9 +46,7 @@ Without this piece of information, I was unable to answer the question or recomm
 
 
 
-<p align="center">
-  <img style="float: right;" src="/docs/assets/imgs/failed2.png">
-</p>
+![failed you!](/docs/assets/imgs/failed3.png)
 
 
 <p align="center">
